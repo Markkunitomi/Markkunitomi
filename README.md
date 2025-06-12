@@ -1,42 +1,15 @@
-# Hi there! 👋 I'm Mark Kunitomi
+# Hi there! 👋 I'm Mark
 
-## 🧬 About Me
+**Omics • AI • Coffee**
 
-🎓 **PhD Molecular Biology** with 15+ years experience in genomics and biotechnology  
-📍 **Location:** San Francisco  
-🚀 **Background:** Former founder of Almaden Genomics, ex-IBM Research  
-🔬 **Focus:** Computational biology and genomics pipeline development  
-📜 **Innovation:** 15+ patent inventor in biotechnology
+PhD in Molecular Biology from San Francisco who codes for fun. I build tools for genomics data, experiment with AI applications in biology, and analyze my coffee roasting curves (because why not apply data science to everything?).
 
-## 🛠️ Technical Skills
+## 🛠️ Current toolkit
+Python • R • AWS • Docker • Nextflow • LangChain
 
-**Languages & Frameworks:**
-- 🐍 Python | R
-- 🤖 Machine Learning | LangChain
-
-**Cloud & Infrastructure:**
-- ☁️ AWS
-- 🐳 Docker
-- 🔄 Nextflow
-
-**Genomics & Bioinformatics:**
-- 🧬 NGS Analysis
-- 🧪 scRNA-seq
-- 🔍 ATAC-seq
-- 🧮 Computational Biology
-
-## 💼 Experience Highlights
-
-- **10+ years** in genomics and biotech industry
-- **Founder** of Almaden Genomics
-- **Research Scientist** at IBM Research
-- **Pipeline Development** for high-throughput genomics workflows
-- **Bioinformatics Solutions** for complex biological datasets
-
-## 🌟 Expertise
-
-I specialize in developing scalable bioinformatics pipelines and applying machine learning to genomics data. My work bridges the gap between cutting-edge computational methods and practical biological insights.
+## ☕ Fun fact
+I collect data on my coffee roasts and build models to optimize flavor profiles. Data science meets caffeine addiction.
 
 ---
 
-*"Transforming biological data into actionable insights through computational innovation"*
+*Always curious, always coding* ✨
