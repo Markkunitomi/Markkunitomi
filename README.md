@@ -2,14 +2,6 @@
 
 **Omics • AI • Coffee**
 
-PhD in Molecular Biology from San Francisco who codes for fun. I build tools for genomics data, experiment with AI applications in biology, and analyze my coffee roasting curves (because why not apply data science to everything?).
+I'm a scientist who loves to create and explore data. Whether that's roasting and brewing coffee, combining gardening with home automation, or playing with new ways to analyze and visualize data. I like to have fun and explore.
 
-## 🛠️ Current toolkit
-Python • R • AWS • Docker • Nextflow • LangChain
-
-## ☕ Fun fact
-I collect data on my coffee roasts and build models to optimize flavor profiles. Data science meets caffeine addiction.
-
----
-
-*Always curious, always coding* ✨
+*Always curious* ✨
